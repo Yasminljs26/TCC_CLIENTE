@@ -6,6 +6,14 @@ mobile-menu{
     transition: 0.3s;
 }
 
+.logo {
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+
+
 * {
   font-family: "Inter", sans-serif;
   margin: 0;
